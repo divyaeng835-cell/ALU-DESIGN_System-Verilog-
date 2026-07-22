@@ -1,6 +1,6 @@
 # Experiment 1: ALU Design using Enumerated Data Types and Case Statements
 
----
+---  
 
 ## Aim  
 To design and simulate a **4-bit Arithmetic Logic Unit (ALU)** using **SystemVerilog HDL** with **Enumerated Data Types and Case Statements**, and verify its functionality using **Synopsys VCS and DVE**.
