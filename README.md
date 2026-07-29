@@ -224,7 +224,7 @@ endmodule
 
 ### Simulation Output
 
-The simulation is carried out using ModelSim 2020.1.
+The simulation is carried out using Synopsys VCS and DVE.
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-22 090605" src="https://github.com/user-attachments/assets/dc21e75e-d8c2-43c5-8ff3-80ce387f2113" />
 
